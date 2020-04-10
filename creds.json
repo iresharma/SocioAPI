@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cupertinologinapp",
+  "private_key_id": "a7f4410ba977741757bada58277a882bf9732202",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDgZ/hyli8VFaL\nLUfcBLMw4H4vnRr7TjG9UcLgrLCUZob7r96k+HvxS0t3bQ7dLP5lrjy1Pct5zoYW\nqpnArYjtyylMsP7nbW4CW5PSL25K8VH17XmAGvM2o3smMl9F4Z3sdFCv+4YRTprW\nm2kGcWDeoHZ5RBTbNI0dmFfvep2pznTQ3UBAuThWcqIMWt7wcKOnJS/M4BGVqMK+\n/N9OCgdf9vBSKEXq224Dtbq8qWuu18smtzNZjBMAJG9KsvnQiamNUBVFEU6QC41G\ncv1NEX7dSlRXqWQlQdGlAbvdQUxCygPLytUrORHyWzXl3ii9CCG5lVPytl8vOVzW\nxZ9/Fcs/AgMBAAECggEAJD+JXDy/HRPqA93+X83DR4GoA732PbfuwvJA1pVOHAWy\na0HdXurvV/qk4FypD9sCw+l9OgFeE5R2CgfRgAbsx2IOoziB2njQl8FQ8/x1T5HU\np2tDRrw4cd33vEpEndlKBYg/WZGh9t2DGd0wqNAmrMBFlxBHaakhrOYND8rFJrFc\nR+NrnQ4qw2F07vVscQwi2fZq1dfXeK2EZ5/mhCcsUnPn/LAiGIUoERZj+wyD6xpj\nfbN/CBdy/R5S0V/IB4SsVk0ASVYdx8uE/IA2jblW4CmQPluxk4AGe3W90aqtsi0o\n0PYKinFtJOACeFFmRNxglAgnkfsZCpaob1h0EtF8EQKBgQD5Ooabkd6JtIDDJKJt\nf/02SWxjbMPtGw+3q0wdsg5mbUuGd+bV2EG7TEjbRijOrnpd7OpUHwS6a5ovkdV+\nTZpMYMV4JJlTGvjPS40Lw0IH8kaLnsBWtbE/eiiMvsA6b8+x61PpcMkwDs1MdBI0\n2Zt5U3PF4RzdZSvaxlLnPibp5wKBgQDI0XDtBXMCXgQmvTKBBRM19GAFZtEBry8x\n3EuwZTuv6gxBPdezb2Eo4g7H4NgnBwQbHvsPJX4TBaYU1WZld8EJuSosEU/odKVB\nUacot6LUUu9hqH/hnByBqSXNpiGEgGS26uAPztTvLTSjeFShhvalOueayoW+mUlB\nzlwFOzDY6QKBgQDuQOfLst/17qulYdExMsii7AAE8EZA1bzpzYTfYodnnZY0v0za\nI3l7DwsbK+/43U03mzPMJTcE67ajQRvCOXeHCn/cQcidbMxshwIYO5pVNGQCN0oR\n2nHOh/5ZxkTH2HnJ0XkPUfXSzmOuccux4FFD4+ZqRbCtaXlKFIvOalkTAwKBgBXK\n5L5UAQ8YtMqfbYOi0VrhkioD5lqQcEaw6WXTFo8Yjwvlcir+w0R0g7YdKFfT4xYu\nXoBeSTg3PLa2Ec6hGEm91l3B4zIOtoBIJCO/CeSQu3mVl4scLdvER13x0WFXrZZM\nFtSgVWs/NJ8ox8ZfpxR3N/sMT0dHyzNg+Yt3yO1BAoGAZRiD+7eUGWxWODEngAOQ\nE1Uy6YdaTDTNLXCl5iMs9/7La8F6jzzO0WEAGUptLTqTj5094GK4YNOIZX7/95Ed\n0qHwhRcwU0cGY5LThA+F89VKFJhdpCmKnW/l0wnDUk0hdy8XUSbGD7w72VtVuSSO\nFHEWU+OcLmVbdcwDxHDhvbY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-omfkn@cupertinologinapp.iam.gserviceaccount.com",
+  "client_id": "104247198037639075090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-omfkn%40cupertinologinapp.iam.gserviceaccount.com"
+}
